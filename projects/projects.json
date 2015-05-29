@@ -3688,6 +3688,35 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Waitwhile",
+      "thumb": "waitwhile/thumb.png",
+      "desc": "Waitwhile is a free waitlist app for restaurants and other businesses to manage guest queues. It includes customizable SMS alerts, wait time estimator and basic customer insights.", // One or two sentences
+      "url": "https://waitwhile.com",
+      "info": "https://waitwhile.com/about",
+      "submitter": "cklemming",
+      "submissionDate": "2012-05-29",
+      "tags": [
+        "Production",
+        "Productivity", 
+        "B2B", 
+        "Waitlist", 
+        "Restaurant",
+        "SMS",
+        "Animations", 
+        "UI-Router", 
+        "Twilio", 
+        "Firebase",
+        "Zapier",
+        "Notifications",
+        "UI-Bootstrap",
+        "Chart.js",
+        "No jQuery",
+        "Responsive",
+        "OAuth"
+        "Libphonenumber",
+      ]
     }
 
   ]
